@@ -29,8 +29,6 @@ import (
 	"errors"
 	"net/url"
 	"path/filepath"
-	"runtime"
-	"strings"
 
 	"github.com/xeipuuv/gojsonpointer"
 )
